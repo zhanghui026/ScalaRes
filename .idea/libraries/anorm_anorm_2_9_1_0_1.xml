@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="anorm_anorm_2.9.1_0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/anorm/anorm_2.9.1/0.1/jars/anorm_2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/anorm/anorm_2.9.1/0.1/docs/anorm_2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/anorm/anorm_2.9.1/0.1/srcs/anorm_2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
