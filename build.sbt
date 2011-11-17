@@ -11,8 +11,6 @@ libraryDependencies ++= Seq(
     "org.specs2" %% "specs2-scalaz-core" % "6.0.1" % "test"
 )
 
-resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
-
 libraryDependencies ++= Seq(
   "se.scalablesolutions.akka" % "akka-actor" % "1.1.3",
   "se.scalablesolutions.akka" % "akka-typed-actor" % "1.1.3",

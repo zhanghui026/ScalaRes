@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea_modules/default-f46479.iml" filepath="$PROJECT_DIR$/.idea_modules/default-f46479.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../playit/workspace/moneyaccount/moneyaccount.iml" filepath="$PROJECT_DIR$/../playit/workspace/moneyaccount/moneyaccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea_modules/project.iml" filepath="$PROJECT_DIR$/.idea_modules/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../playit/workspace/yabe/yabe.iml" filepath="$PROJECT_DIR$/../playit/workspace/yabe/yabe.iml" />
     </modules>
   </component>
 </project>

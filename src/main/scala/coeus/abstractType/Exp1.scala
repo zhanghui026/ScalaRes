@@ -44,6 +44,7 @@ object Exp1 extends App{
   //C2#A type
   result= c.get
   println(result.isInstanceOf[String])
+  println("heheh 22")
 
   //u can not assign a string to result
 //  result = "4"
