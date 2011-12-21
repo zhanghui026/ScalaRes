@@ -19,7 +19,7 @@ object ArrayLearn {
       for (i <- (0 to r.nextInt(n))) yield a
     }
 
-    println(nextArray(5, 't'))
+    println("PSSSS"+nextArray(5, 't'))
 
     // a loop swaps adjacent elements of an array of intergers
     def swapsAdjacent(arr: Array[Int]) = {

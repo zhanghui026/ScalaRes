@@ -41,6 +41,16 @@
     <orderEntry type="library" name="se.scalablesolutions.akka_akka-testkit_1.1.3" level="project" />
     <orderEntry type="library" name="anorm_anorm_2.9.1_0.1" level="project" />
     <orderEntry type="library" name="mysql_mysql-connector-java_5.1.17" level="project" />
+    <orderEntry type="module" module-name="foo2" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../foo2/target/scala-2.9.1/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
 
